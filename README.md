@@ -40,6 +40,6 @@ Executing this program we can obtain some awesome simulations like this:
 
 <img src="gifs/5.gif" width="900" height="750" />
 
-# Author
+## Author
 
 Daute Rodríguez Rodríguez
