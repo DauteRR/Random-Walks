@@ -40,7 +40,7 @@ For execution, try the command below:
 
 Executing this program we can obtain some awesome simulations like this:
 
-<div style="text-align:center"><img src="gifs/5.gif" width="450" height="375" /></div>
+<p align="center"><img src="gifs/5.gif" width="450" height="375" /></p>
 
 ## Author
 
